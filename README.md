@@ -1,14 +1,16 @@
-# nahid_ecommerce
+# FLutter boilerplate 
 
-A new Flutter project.
+A complete boilerplate on flutter.
 
-## Getting Started
-    MVC Pattern
-    Singleton
-    SharedPreference 25MB 
-    Dio() // Http 
-    Provider
-    
+## Spacifications: 
+
+    using MVC Pattern
+    using Singleton
+    using SharedPreference 
+    using Dio()  
+    using Provider
+ 
+ ## MVC Folder Structure: 
     Datesources
         Model
         Repository
@@ -19,5 +21,3 @@ A new Flutter project.
         Screens
     Utils
     Helper
-    
-
